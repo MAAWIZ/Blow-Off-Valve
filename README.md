@@ -7,12 +7,6 @@ This repository contains the complete 3D computer-aided design (CAD) models, det
 
 This project demonstrates advanced solid modeling techniques, specifically focusing on multi-section blending and parametric feature generation, alongside a rigorous application of Geometric Dimensioning and Tolerancing (GD&T) standards required for precision manufacturing.
 
-## 🎥 Project Demonstration
-
-### CAD Mechanism & Geometry Animation
-![Blow Off Valve Animation](Blow_Off_Valve_GIF.jpg)
-*Caption: Animated 3D view of the completed blow-off valve body, highlighting the internal flow geometry and external mounting flanges.*
-
 
 ## ⚙️ Advanced Design Methodology
 The 3D modeling process for this part was executed in PTC Creo Parametric, utilizing a structured, feature-based workflow to ensure geometric accuracy and design intent:
@@ -43,11 +37,5 @@ Future iterations of this repository will focus on structural and thermal valida
 * **Simulation (Upcoming):** Ansys Student
 * **Documentation:** Markdown
 
-## 📂 Repository Structure
-* `/CAD_Models/` - Contains the native `.prt` part files and associated backup iterations.
-* `/Drawings/` - Contains `Blow_Off_Valve_GD&T.pdf` with the fully dimensioned manufacturing views.
-* `/Simulation_Data/` - *(Placeholder)* Will contain future Ansys mesh configurations and result sets.
-* `README.md` - Primary project documentation.
-
 ## 👨‍💻 Author
-**Mohammad Maawiz**
+**Mohammad Maawiz Bin Mukarram**
